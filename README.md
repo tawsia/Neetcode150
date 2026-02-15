@@ -8,7 +8,7 @@ I am solving these problems to improve problem-solving skills, prepare for codin
 
 ## 🚀 Progress
 
-- Total Problems Solved: **3 / 150**
+- Total Problems Solved: **5 / 150**
 
 ---
 
