@@ -18,6 +18,8 @@ I am solving these problems to improve problem-solving skills, prepare for codin
 - ✅ Contains Duplicate
 - ✅ Two Sum
 - ✅ Valid Anagram
+- ✅ Group Anagrams
+- ✅ Top K Frequent Elements
 
 ---
 
