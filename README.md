@@ -8,7 +8,7 @@ I am solving these problems to improve problem-solving skills, prepare for codin
 
 ## 🚀 Progress
 
-- Total Problems Solved: **5 / 150**
+- Total Problems Solved: **6 / 150**
 
 ---
 
@@ -20,6 +20,8 @@ I am solving these problems to improve problem-solving skills, prepare for codin
 - ✅ Valid Anagram
 - ✅ Group Anagrams
 - ✅ Top K Frequent Elements
+- ✅ Encode And Decode Strings
+
 
 ---
 
