@@ -8,7 +8,7 @@ I am solving these problems to improve problem-solving skills, prepare for codin
 
 ## 🚀 Progress
 
-- Total Problems Solved: **7 / 150**
+- Total Problems Solved: **8 / 150**
 
 ---
 
@@ -22,6 +22,7 @@ I am solving these problems to improve problem-solving skills, prepare for codin
 - ✅ Top K Frequent Elements
 - ✅ Encode And Decode Strings
 - ✅ Products of Array Except Self
+- ✅ Valid Suduko
 
 
 ---
