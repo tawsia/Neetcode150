@@ -8,7 +8,7 @@ I am solving these problems to improve problem-solving skills, prepare for codin
 
 ## 🚀 Progress
 
-- Total Problems Solved: **8 / 150**
+- Total Problems Solved: **9 / 150**
 
 ---
 
@@ -23,6 +23,7 @@ I am solving these problems to improve problem-solving skills, prepare for codin
 - ✅ Encode And Decode Strings
 - ✅ Products of Array Except Self
 - ✅ Valid Suduko
+- ✅ Longest Consecutive Sequence
 
 
 ---
