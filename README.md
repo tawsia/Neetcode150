@@ -8,7 +8,7 @@ I am solving these problems to improve problem-solving skills, prepare for codin
 
 ## 🚀 Progress
 
-- Total Problems Solved: **9 / 150**
+- Total Problems Solved: **10 / 150**
 
 ---
 
@@ -24,6 +24,9 @@ I am solving these problems to improve problem-solving skills, prepare for codin
 - ✅ Products of Array Except Self
 - ✅ Valid Suduko
 - ✅ Longest Consecutive Sequence
+
+### Two Pointers
+- ✅ Valid Palindrome
 
 
 ---
