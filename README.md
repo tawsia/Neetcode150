@@ -8,7 +8,7 @@ I am solving these problems to improve problem-solving skills, prepare for codin
 
 ## 🚀 Progress
 
-- Total Problems Solved: **10 / 150**
+- Total Problems Solved: **12 / 150**
 
 ---
 
@@ -27,6 +27,8 @@ I am solving these problems to improve problem-solving skills, prepare for codin
 
 ### Two Pointers
 - ✅ Valid Palindrome
+- ✅ Two Sum Sorted
+- ✅ Three Sum Problem
 
 
 ---
