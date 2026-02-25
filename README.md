@@ -8,7 +8,7 @@ I am solving these problems to improve problem-solving skills, prepare for codin
 
 ## 🚀 Progress
 
-- Total Problems Solved: **12 / 150**
+- Total Problems Solved: **14 / 150**
 
 ---
 
@@ -29,6 +29,8 @@ I am solving these problems to improve problem-solving skills, prepare for codin
 - ✅ Valid Palindrome
 - ✅ Two Sum Sorted
 - ✅ Three Sum Problem
+- ✅ Container With Most Water
+- ✅ Trapping Rain Water
 
 
 ---
