@@ -8,7 +8,7 @@ I am solving these problems to improve problem-solving skills, prepare for codin
 
 ## 🚀 Progress
 
-- Total Problems Solved: **14 / 150**
+- Total Problems Solved: **16 / 150**
 
 ---
 
@@ -34,6 +34,7 @@ I am solving these problems to improve problem-solving skills, prepare for codin
 
 ### Sliding Window
 - ✅ Best time to Buy and Sell Stock
+- ✅ Longest Substring Without Repeating Characters
 
 
 ---
