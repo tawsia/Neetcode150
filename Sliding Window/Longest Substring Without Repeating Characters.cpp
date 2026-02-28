@@ -21,7 +21,7 @@ class Solution {
     };
 int main(){
     Solution s;
-    string str="abcabcbb";
+    string str="abcabcbbc";
     cout<<s.lengthOfLongestSubstring(str)<<endl;
     return 0;
 }
